@@ -1,5 +1,3 @@
-/* index.css MONOLÍTICO para el reto */
-/* BUG #4: esta regla sobreescribe el color correcto del h1 definido más abajo */
 /* Footer Block */
 .footer {
   background-color: var(--color-dark);
