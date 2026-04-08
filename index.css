@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 /* index.css MONOLÍTICO para el reto */
 /* BUG #4: esta regla sobreescribe el color correcto del h1 definido más abajo */
-h1 { color: purple; }
-
 /* Footer Block */
 .footer {
   background-color: var(--color-dark);
@@ -701,9 +698,3 @@ a:hover { opacity: 0.8; }
     --font-size-xl: 20px;
   }
 }
-=======
-/*
-Generando conflictos jeje
-OJO: Este comentario se debe quedar como parte del repo
-*/
->>>>>>> origin/clean-css
